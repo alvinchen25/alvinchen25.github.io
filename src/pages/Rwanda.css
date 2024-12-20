@@ -123,5 +123,7 @@
 .rwanda-post-content {
     max-width: 50%;  /* Limit the width to 50% */
     margin: 0 auto;  /* Center the content */
+    border: none;
+    background: transparent;
     /* padding: 1em;    Optional: Add some padding */
 }

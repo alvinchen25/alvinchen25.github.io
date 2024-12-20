@@ -8,7 +8,7 @@ function Home() {
           <p>Coming soon: <Link to="/blog">Blog</Link></p>
           <p><Link to="/rwanda">Rwanda</Link></p>
         </div>
-        <img src="/public/IMG_3173-EDIT.jpg" alt="Alvin picture" style={{ maxWidth: '50%', height: 'auto' }} />
+        <img src="/IMG_3173-EDIT.jpg" alt="Alvin picture" style={{ maxWidth: '50%', height: 'auto' }} />
       </section>
     );
   }
