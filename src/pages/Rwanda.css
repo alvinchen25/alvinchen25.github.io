@@ -74,7 +74,7 @@
   
   .rwanda-list-item-content {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     padding: 1em;
   }
   
@@ -120,3 +120,8 @@
     transition: background 0.3s ease, box-shadow 0.3s ease;
   }
   
+.rwanda-post-content {
+    max-width: 50%;  /* Limit the width to 50% */
+    margin: 0 auto;  /* Center the content */
+    /* padding: 1em;    Optional: Add some padding */
+}

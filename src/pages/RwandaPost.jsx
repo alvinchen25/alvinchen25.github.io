@@ -38,7 +38,7 @@ function RwandaPost() {
   if (content === null) return <p>Post not found!</p>;
 
   return (
-    <article>
+    <article className="rwanda-post-content">
       <ReactMarkdown>{content}</ReactMarkdown>
     </article>
   );

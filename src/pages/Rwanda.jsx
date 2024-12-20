@@ -69,7 +69,7 @@ function Rwanda() {
       <h2>Rwanda</h2>
       <div className="rwanda-header">
         <p className="rwanda-intro">
-          In January 2024 I went to Rwanda as part of{' '}
+          In January 2024, I went to Rwanda as part of{' '}
           <a 
             href="https://misti.mit.edu/your-resources/crafting-your-experience/types-programs/global-teaching-labs" 
             target="_blank" 
@@ -77,7 +77,7 @@ function Rwanda() {
             className="rwanda-link"
           >
             Global Teaching Labs
-          </a>. 
+          </a> at MIT. 
           Tony, Yuka, and I spent almost two and a half weeks visiting schools, 
           working with secondary school math students, and training coaches in developing Rwanda's math olympiad program for future years. 
           While not teaching, we visited milk bars, learned Kinyarwanda, rode motorbikes, went on a safari, made friends, and drank banana beer. 
