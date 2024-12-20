@@ -26,9 +26,6 @@ function RwandaPost() {
       // `content` now contains only the markdown body without frontmatter
       // `data` holds any frontmatter fields if present.
 
-      // Check what content looks like in the console
-      console.log('Post content:', content);
-
       setContent(content);
       setLoading(false);
     });

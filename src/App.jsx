@@ -1,5 +1,5 @@
 // src/App.jsx
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 // import App from './App';
 import Rwanda from './pages/Rwanda';
 import RwandaPost from './pages/RwandaPost';

@@ -39,8 +39,6 @@ function Rwanda() {
       keys.map(key => {
         return rwandaPosts[key]().then(rawContent => {
           const { data, content } = matter(rawContent);
-          console.log('Parsing file:', key);
-          console.log('Frontmatter:', data);
           
           const filename = key.split('/').pop(); 
           const postId = filename.replace('.md', '');
