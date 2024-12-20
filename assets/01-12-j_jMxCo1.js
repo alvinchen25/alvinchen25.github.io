@@ -1,0 +1,31 @@
+const e=`# 1/12
+
+Created: January 12, 2024 2:23 PM
+
+Today was a much more chill day.
+
+Woke up at 7:30 to start planning for tomorrow at 8. It’s a small group today, just Obed, Etienne, Innocent, and us three from MIT. Obed tells us he doesn’t want to give us too much direction because he wants to sort of see us cook and we can decide if it’s different from how they usually do it. Then they will sort of decide what they like and adapt.
+
+Tomorrow we’ll be working with the Olympiad kids, who’ll spend 8 am-4 pm with us. We each are teaching sessions of about 2 hours, and we’ll each teach one session with the juniors and one session with the seniors. At the end we’ll do an activity with everyone collectively.
+
+Preparing this without much to go with previously would be a huge amount of work, but thankfully Yuka has done GTL (the MIT program that sent us here) twice before and has a large repository of handouts she used for Ghana and South Africa. We can adapt those previous resources to ones we can use for this year. I decide to teach a number theory and modular arithmetic introduction to the juniors and an invariants sheet to the seniors.
+
+We spend some time looking at the exam sheets of students to get a sense of their level—it seems like the senior students have seen a lot of content but haven’t really worked through too many problems, so even though they know a lot the focus is on them solving problems. It’s weird because in the sheets that they tell us the students have worked through in the past camp, there are some extremely hard problems, so I doubt they actually went through them, because they were unable to solve much easier problems on the exams.
+
+Based on this info, we kind of need to modify the sheets used and add/subtract content. So we basically spent the entire day putting together sheets, figuring out how to print them at AIMS, and planning how we’ll work with the kids. Mostly it’ll be a mix of lecture and problem solving sessions.
+
+As we’re putting together the sheets, we ask Etienne and Innocent what the students might know, to gauge the level they’re at. Have the juniors heard of modular arithmetic? Maybe. Fermat’s Little Theorem. Nope.
+
+As i’m putting together the number theory handout, I give Etienne this interesting problem involving proving Fermat’s Little Theorem combinatorially→count how many ways there are to put p beads onto a bracelet, if each bead is one of A colors. We talk about it for some time and he works through small cases. Eventually after a few hours, when we’ve finished the sheets, he solves the problem and seems quite happy. I’m happy too—he genuinely seems to love these kinds of puzzles.
+
+It does worry me though that I’ve fallen into the trap of teaching content that’s too hard. Etienne is a coach who’s been through the program and has seen much more math than the junior students, who I was preparing the notes for. So will it be too much for them? But there’s also this pressure from the program to teach new things and to teach advanced things, because they showed us all these problems that the students had done. Time will tell.
+
+![D731940B-EDA2-442A-9295-78FE2B4D0674_1_102_o.jpeg](1%2012%2033a093007c7947f88a4e44302607e4a5/D731940B-EDA2-442A-9295-78FE2B4D0674_1_102_o.jpeg)
+
+We leave AIMS at around 2 and decide we want to go get ice cream. We look up a place that has ice cream, and we get there and they open up their freezer and scoop ice cream into a cup. About 1k per scoop. Ice cream is expensive here. This makes sense—things are generally hot, not cold. We walk a bit to a pharmacy, where I buy floss and the others buy some other things. We then walk to a supermarket called Simba. This place seems quite different from the other “supermarkets” we’ve passed—it’s indoors, and it has many things, like a bread section and a meat section, that the outdoor supermarkets don’t have. It’s the closest thing to Star Market they have here. I see floss and it’s half the price of what I bought at the pharmacy. We also see ice cream and it’s USA prices—which is really surprising, because almost everything else is at most half as expensive. We buy some fruits that we find interesting, as well as some yogurt. Tony opens a yogurt later and it has mold. But the fruits seem fine and it’s always cool to shop in a new place. I ask one of the workers there to help me with my eggs, and I say *gatandatu*, and she corrects my accent, and teaches me another phrase—*amodoru*. How are you?
+
+![927AA57F-8819-428D-AF81-520D95AB54A2_1_105_c.jpeg](1%2012%2033a093007c7947f88a4e44302607e4a5/927AA57F-8819-428D-AF81-520D95AB54A2_1_105_c.jpeg)
+
+We go home and decide we want the kids to have more fun than what our current plan entails. Yuka finds this contest from the British team maths competition that seems to do the trick—it’s a crossword that you work on in teams, and I think it’ll be quite fun. We’ll see tomorrow.
+
+We go to a milk bar and get some milk and pastries for dinner, and it’s time to go to bed.`;export{e as default};
