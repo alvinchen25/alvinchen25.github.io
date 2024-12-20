@@ -34,9 +34,18 @@ function RwandaPost() {
   if (loading) return <p>Loading...</p>;
   if (content === null) return <p>Post not found!</p>;
 
+  // Prepend the correct path to images
+  const imagePathPrefix = '/rwanda/'; // Adjust this path as necessary
+
   return (
     <article className="rwanda-post-content">
-      <ReactMarkdown>{content}</ReactMarkdown>
+      <ReactMarkdown 
+        components={{
+          img: ({ src, alt }) => <img src={`${imagePathPrefix}${src}`} alt={alt} />
+        }}
+      >
+        {content}
+      </ReactMarkdown>
     </article>
   );
 }
