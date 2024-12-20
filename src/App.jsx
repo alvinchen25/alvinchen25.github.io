@@ -22,7 +22,7 @@ function App() {
         <Route path="/rwanda" element={<Rwanda />} />
         <Route path="/rwanda/:postId" element={<RwandaPost />} />
         
-        {/* Catch all, etc. */}
+        {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>
     </Router>
   );
