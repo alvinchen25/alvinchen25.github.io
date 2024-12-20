@@ -11,7 +11,9 @@ import Footer from './components/Footer';
 
 function App() {
   return (
+    
     <Router>
+      <Header />
       <Routes>
         {/* Your existing routes */}
         <Route path="/" element={<Home />} />
