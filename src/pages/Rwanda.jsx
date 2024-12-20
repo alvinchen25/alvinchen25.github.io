@@ -18,13 +18,6 @@ function extractFirstImage(content) {
 }
 
 function extractExcerpt(content, wordCount = 50) {
-  // // Option 1: Extract the first paragraph
-  // const paragraphs = content.split('\n\n');
-  // if (paragraphs.length > 0) {
-  //   return paragraphs[0].replace(/[\n\r]/g, ' ');
-  // }
-
-  // Option 2: Extract the first N words
   const words = content.split(/\s+/).slice(8, wordCount);
   return words.join(' ') + (content.split(/\s+/).length > wordCount ? '...' : '');
 }
