@@ -2,7 +2,7 @@ const e=`# 1/10
 
 Created: January 10, 2024 2:29 PM
 
-We wake up to news that nothing is planned for us today, so we have the day free. We were originally going to have dinner with Jessica but the timing gets fungled so we don’t. Yuka and I decide that our main plans for the day involve walking around the city and going to the Kigali Genocide Memorial.
+We are told that nothing is planned for us today. Tony is yet to arrive and we have time to explore Kigali. We were originally going to have dinner with Jessica but the timing gets fungled. Yuka and I decide that our main plans for the day involve walking around the city and going to the Kigali Genocide Memorial.
 
 We start by walking to a coffee shop, called Question Coffee. This place has many many reviews on google maps, and it’s clearly Western friendly. Jessica recommended it, and you can tell from the vibe it’s quite different from the other places we’ve been to earlier, because those had maybe one google review and no credit card capabilities. Here, they have Croissants and Pain au Chocolates, but in the smaller bakeries there are samosas and little donuts for around 200 RWF. Regardless, the croissant is tasty and the people are nice, and we sit there and plan our day for a bit. We try to plan the rest of the day, and we decide to mostly go off of a list that Jess sends us on WhatsApp.
 

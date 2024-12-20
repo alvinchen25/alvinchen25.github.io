@@ -2,8 +2,6 @@ const e=`# 1/12
 
 Created: January 12, 2024 2:23 PM
 
-Today was a much more chill day.
-
 Woke up at 7:30 to start planning for tomorrow at 8. It’s a small group today, just Obed, Etienne, Innocent, and us three from MIT. Obed tells us he doesn’t want to give us too much direction because he wants to sort of see us cook and we can decide if it’s different from how they usually do it. Then they will sort of decide what they like and adapt.
 
 Tomorrow we’ll be working with the Olympiad kids, who’ll spend 8 am-4 pm with us. We each are teaching sessions of about 2 hours, and we’ll each teach one session with the juniors and one session with the seniors. At the end we’ll do an activity with everyone collectively.

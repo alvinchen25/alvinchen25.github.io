@@ -2,7 +2,7 @@ const e=`# 1/24
 
 Created: January 24, 2024 1:06 PM
 
-Pretty chill day and somehow a lot of time passed without us knowing.
+Another pretty chill day, since I think we're all a bit tired.
 
 We get up and go to a restaurant at around noon. Yuka went to AIMS early in the morning to work, so she met Tony and I there late. As we’re ordering, we ask about some of the dishes on the menu we don’t know. There’s one particular starch on there that I ask about, and the waitress doesn’t know how to describe it, but she just says I wouldn’t like it. I ask her if she likes it. She says no. I figure we might as well not get it. Tony and I order goat and beef cooked with onions with plantains on the side, as well as a bunch of vegetables.
 
