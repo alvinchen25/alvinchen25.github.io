@@ -1,3 +1,5 @@
+// src/pages/Rwanda.jsx
+
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import matter from 'gray-matter'; 
@@ -9,9 +11,22 @@ const rwandaPosts = import.meta.glob('../posts/rwanda/*.md', { query: '?raw', im
 import './Rwanda.css';
 
 function extractFirstImage(content) {
+  // This regex looks for the first Markdown image: ![alt](url)
   const imgRegex = /!\[.*?\]\((.*?)\)/;
   const match = imgRegex.exec(content);
   return match ? match[1] : null;
+}
+
+function extractExcerpt(content, wordCount = 50) {
+  // // Option 1: Extract the first paragraph
+  // const paragraphs = content.split('\n\n');
+  // if (paragraphs.length > 0) {
+  //   return paragraphs[0].replace(/[\n\r]/g, ' ');
+  // }
+
+  // Option 2: Extract the first N words
+  const words = content.split(/\s+/).slice(8, wordCount);
+  return words.join(' ') + (content.split(/\s+/).length > wordCount ? '...' : '');
 }
 
 function Rwanda() {
@@ -24,18 +39,28 @@ function Rwanda() {
       keys.map(key => {
         return rwandaPosts[key]().then(rawContent => {
           const { data, content } = matter(rawContent);
+          console.log('Parsing file:', key);
+          console.log('Frontmatter:', data);
+          
           const filename = key.split('/').pop(); 
           const postId = filename.replace('.md', '');
 
           const title = data.title || postId;
           const description = data.description || '';
-          const image = data.image || `${extractFirstImage(content)}`;
+          const image = data.image 
+            ? `/rwanda/${data.image}` 
+            : extractFirstImage(content) 
+              ? `/rwanda/${extractFirstImage(content)}`
+              : null;
+          const excerpt = extractExcerpt(content);
 
-          return { postId, title, description, image };
+          return { postId, title, description, image, excerpt };
         });
       })
     ).then(postList => {
       setPosts(postList);
+    }).catch(err => {
+      console.error('Error loading posts:', err);
     });
   }, []);
 
@@ -55,7 +80,7 @@ function Rwanda() {
           </a>. 
           Tony, Yuka, and I spent almost two and a half weeks visiting schools, 
           working with secondary school math students, and training coaches in developing Rwanda's math olympiad program for future years. 
-          While not teaching, we visited milk bars, learned Kinyarwanda, rode motorbikes, went on a safari, and drank banana beer. 
+          While not teaching, we visited milk bars, learned Kinyarwanda, rode motorbikes, went on a safari, made friends, and drank banana beer. 
           Here's my journal from my time there.
         </p>
         <img 
@@ -65,13 +90,14 @@ function Rwanda() {
         />
       </div>
       <ul className="rwanda-list">
-        {posts.map(({ postId, title, description, image }) => (
+        {posts.map(({ postId, title, description, image, excerpt }) => (
           <li key={postId} className="rwanda-list-item">
             <Link to={`/rwanda/${postId}`} className="rwanda-list-item-link">
               <div className="rwanda-list-item-content">
                 <div className="rwanda-text">
                   <h3 className="rwanda-post-title">{title}</h3>
                   {description && <p className="rwanda-post-description">{description}</p>}
+                  {excerpt && <p className="rwanda-post-excerpt">{excerpt}</p>}
                 </div>
                 {image && (
                   <div className="rwanda-image-container">
