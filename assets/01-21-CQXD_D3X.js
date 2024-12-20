@@ -4,7 +4,7 @@ Created: January 22, 2024 2:52 PM
 
 I’m writing this late unfortunately but it’s for a good reason: the safari!
 
-The day is supposed to begin at 9, but we’ve discovered that when we show up on time we kind of wait over an hour for everybody else, and I’m tired anyway, so I decide I’m not going to be on time today. Yuka leaves mostly on time (probably arrives 15 minutes after we’re supposed to be there) and there’s 4 out of 18 coaches present i think, so my decision was at least somewhat justified. I am normally a bit of a stickler for timeliness so I have been getting somewhat annoyed when things are late, but I’m trying to adjust myself instead.
+The day is supposed to begin at 9, but we’ve discovered that when we show up on time we kind of wait over an hour for everybody else (this is not their fault, since some coaches live up to an hour away from AIMS by motorbike, and we chose to live just a fifteen minute walk away), and I’m tired anyway, so I decide I’m not going to be on time today. Yuka leaves mostly on time (probably arrives 15 minutes after we’re supposed to be there) and there’s 4 out of 18 coaches present i think, so my decision was at least somewhat justified. I am normally a bit of a stickler for timeliness so I have been getting somewhat annoyed when things are late, but I’m trying to adjust myself instead.
 
 Anyway, Tony needs to shower and we are sharing keys so we end up getting to AIMS at around 10. There are now 6 coaches there and Yuka’s running a problem session with them, which is going alright I think. I feel somewhat bad for Yuka because she’s working with the new coaches which are very new as well as the old coaches who have done a lot of math, and the experience gap is way larger than anything we had with the students.
 
