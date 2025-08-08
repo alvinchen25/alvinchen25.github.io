@@ -18,6 +18,6 @@ We then meet Gal in the city, and get more souveneirs. I get a bracelent and a b
 
 Afterwards we go up to the giant Buddha in Thimphu. It’s around sunset except there’s no sun since it’s all cloudy. You can go in under the Buddha, and we walk around even though it’s closed, because the monk inside is quite nice. At night, it’s lit up, and it’s the type of thing you can really see for miles and miles.
 
-![alt text](../../../public/bhutan/8BF7BD2A-6E1B-4C73-9901-BFE2B7AE4EDF_1_105_c.jpeg)
+![alt text](8BF7BD2A-6E1B-4C73-9901-BFE2B7AE4EDF_1_105_c.jpeg)
 
 We go to a cafe afterwards in the city, and we talk to Gal’s friend Sonam. They are trying to start the first climbing gym in Bhutan. Sonam is super fit and he has dreads, and he talks about running a parkour gym for kids. He’s really outdoorsy and talks about the backpacking trips you can do at 4000 meters in Bhutan, which is pretty crazy. He has a wife in Taiwan that he sees from time to time, and as we walk in the city it’s plain that he knows everyone. Thimphu is maybe not so big after all, since it’s so easy to just run into friends. Even on the taxi back to our hotel, which Sonam takes with us, he sees a friend in the window of another car and talks to them briefly. `;export{e as default};

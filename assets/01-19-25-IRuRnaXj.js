@@ -16,7 +16,7 @@ We then proceed to our second stop, which is Chimi Lakhang. It’s a fertility t
 
 Inside the temple there is a monk who talks to me in Dzongkha and the students laugh because even outside people think we look Bhutanese. Not too many foreigners come here and wear gho.
 
-![alt text](../../../public/bhutan/9B402457-0112-4711-BAF0-BEE49CCDBB58_1_105_c.jpeg)
+![alt text](9B402457-0112-4711-BAF0-BEE49CCDBB58_1_105_c.jpeg)
 
 We stop at a field for lunch, and after lunch we spend some time at the river skipping stones. Some of the boys really know how to throw a stone, and they know the technique to toss a stone all the way across the river. I try, and only make it about 3/4 of the way. They joke about making sure the angle is 45 degrees so the rocks can go further. They know physics!
 
@@ -26,6 +26,6 @@ Apparently the first king is buried there, and a sacred relic is kept there too,
 
 We spend a lot of time taking pictures at Punakha Dzong, since it's considered one of the most beautiful sights. There is a bridge where you can see the whole Dzong. We stand on the bridge and throw some of the extra rice over for the fish. When the rice hits the water you can see a crazy fish commotion.
 
-![alt text](../../../public/bhutan/C032DB87-3686-47DF-9B22-5E4AB944BF11_1_105_c.jpeg)
+![alt text](C032DB87-3686-47DF-9B22-5E4AB944BF11_1_105_c.jpeg)
 
 After that we go to the suspension bridge, which is crowded so you sort of have to push past people to get across. We try pani puri, which is an indian snack with a kind of crispy ball filled with a flavorful water. It's a bit spicy and you eat it all in one bite. We have taught the kids some basic chinese, like nihao, and one of them says it as a Chinese tourist walks by, and she turns around and looks at us funny.`;export{e as default};
