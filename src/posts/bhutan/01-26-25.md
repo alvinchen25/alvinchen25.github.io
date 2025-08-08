@@ -4,7 +4,7 @@ This is the day of our last trip! It's another hike, and it's to Kobji Hoka Tso,
 
 The hike is a bit longer and it's really neat because we're really in nature. We see a bunch of cows on the path, and one of the kids tells me about how families will let their cows loose in the mountains, so that they can eat and get fat, and then after a year or two the families will come back and try to find the cows on the mountains. It seems like a tough task to find a cow, but I guess they make it work. We also see lots of dogs, and they sometimes walk ahead of us, sometimes behind us. They join our pack, briefly
 
-![alt text](../../../public/bhutan/75FCCE9A-9205-4FBA-B689-256B73B09911_1_105_c.jpeg)
+![alt text](75FCCE9A-9205-4FBA-B689-256B73B09911_1_105_c.jpeg)
 
 One kid points out plants and he says his mom used to beat him with them. We find a vine near the end of the trail and he swings on it. It doesn’t look too stable but I swing as well, and it’s really quite fun. It's an all natural swing and it's set up at the perfect height.
 
@@ -16,7 +16,7 @@ The girls offer me some ramen, which is very nice. It’s maggi, and what they d
 
 We take lots of pictures once everyone arrives. It takes a while because there’s a group at the end who is walking slow and taking a lot of rests. The kids use my phone to take pictures of each other, because I have an iPhone. My phone runs out of battery eventually. There is a dabbing picture that I take with the boys that they seem to really like, and a lot of them post it on instagram.
 
-![alt text](../../../public/bhutan/88A856F7-5CC9-4ECB-9DA9-26AD7C85398C_1_105_c.jpeg)
+![alt text](88A856F7-5CC9-4ECB-9DA9-26AD7C85398C_1_105_c.jpeg)
 
 On the way back we’re sort of speeding down the mountain, so we’re not talking too much. At one point Dorji meets us, and he’s basically running, so I go along with him to finish the trail. They have better suited legs for mountains than I do, but I try to keep up.
 
