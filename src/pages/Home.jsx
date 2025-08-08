@@ -6,8 +6,8 @@ function Home() {
         <div>
           <h1>Hi it's Alvin!</h1>
           {/* <p>Email: alvinc3@mit.edu</p> */}
-          <p>Currently a senior at MIT.</p>
-          <p>Coming soon: <Link to="/blog">Blog</Link></p>
+          {/* <p>Currently a senior at MIT.</p> */}
+          <p><Link to="/blog">Writing</Link></p>
           <p><Link to="/rwanda">Rwanda</Link></p>
           <p><Link to="/bhutan">Bhutan</Link></p>
         </div>
