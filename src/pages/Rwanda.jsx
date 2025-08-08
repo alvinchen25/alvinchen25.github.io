@@ -18,7 +18,7 @@ function extractFirstImage(content) {
 }
 
 function extractExcerpt(content, wordCount = 50) {
-  const words = content.split(/\s+/).slice(8, wordCount);
+  const words = content.split(/\s+/).slice(4, wordCount);
   return words.join(' ') + (content.split(/\s+/).length > wordCount ? '...' : '');
 }
 

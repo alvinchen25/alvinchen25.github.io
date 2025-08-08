@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+batch_format_posts.py
 
 # Editor directories and files
 .vscode/*

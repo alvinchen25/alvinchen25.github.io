@@ -2,9 +2,7 @@
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 // import App from './App';
 import Rwanda from './pages/Rwanda';
-import RwandaPost from './pages/RwandaPost';
 import Bhutan from './pages/Bhutan';
-import BhutanPost from './pages/BhutanPost';
 import Home from './pages/Home';
 import Blog from './pages/Blog';
 import Post from './pages/Post';
@@ -22,13 +20,13 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog/:postId" element={<Post />} />
         
-        {/* New Rwanda routes */}
+        {/* Rwanda routes */}
         <Route path="/rwanda" element={<Rwanda />} />
-        <Route path="/rwanda/:postId" element={<RwandaPost />} />
+        <Route path="/rwanda/:postId" element={<Post />} />
 
-        {/* New Bhutan routes */}
+        {/* Bhutan routes */}
         <Route path="/bhutan" element={<Bhutan />} />
-        <Route path="/bhutan/:postId" element={<BhutanPost />} />
+        <Route path="/bhutan/:postId" element={<Post />} />
         
         {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>

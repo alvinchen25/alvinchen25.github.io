@@ -17,7 +17,7 @@ function Header() {
         >
           CV
         </a>
-        <Link to="/blog" style={{margin: '0 10px'}}>Blog</Link>
+        <Link to="/blog" style={{margin: '0 10px'}}>Writing</Link>
       </nav>
     </header>
   );

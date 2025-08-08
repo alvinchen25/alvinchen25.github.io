@@ -18,7 +18,7 @@ function extractFirstImage(content) {
 }
 
 function extractExcerpt(content, wordCount = 50) {
-  const words = content.split(/\s+/).slice(8, wordCount);
+  const words = content.split(/\s+/).slice(4, wordCount);
   return words.join(' ') + (content.split(/\s+/).length > wordCount ? '...' : '');
 }
 
@@ -60,7 +60,7 @@ function Bhutan() {
       <h2>Bhutan</h2>
       <div className="rwanda-header">
         <p className="rwanda-intro">
-          Bhutan, January 2025. I'm doing{' '}
+          Bhutan, January 2025. I did {' '}
           <a 
             href="https://misti.mit.edu/your-resources/crafting-your-experience/types-programs/global-teaching-labs" 
             target="_blank" 
@@ -68,18 +68,25 @@ function Bhutan() {
             className="rwanda-link"
           >
             Global Teaching Labs
-          </a> a second time, and I'll be writing every day.
+          </a> a second time. In my month there, I taught olympiad math, went on hikes with my students, ate lots of spicy food, and saw Ed Sheeran. Here are some of my journals from then.
+
+          Some may be interested in our <a 
+            href="https://drive.google.com/drive/folders/1rGYIPQextAx5BHHtW_lA8m1umyrG5w9k?usp=sharing"
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="rwanda-link"
+          >teaching materials</a>.
         </p>
-        {/* <img 
-          src="/rwanda/mainpic.jpeg" 
-          alt="Rwanda Main" 
+        <img 
+          src="/bhutan/IMG_5077.jpeg" 
+          alt="Bhutan Main" 
           className="rwanda-main-image" 
-        /> */}
+        />
       </div>
       <ul className="rwanda-list">
         {posts.map(({ postId, title, description, image, excerpt }) => (
           <li key={postId} className="rwanda-list-item">
-            <Link to={`/rwanda/${postId}`} className="rwanda-list-item-link">
+            <Link to={`/bhutan/${postId}`} className="rwanda-list-item-link">
               <div className="rwanda-list-item-content">
                 <div className="rwanda-text">
                   <h3 className="rwanda-post-title">{title}</h3>
