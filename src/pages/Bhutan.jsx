@@ -1,5 +1,7 @@
 // src/pages/Bhutan.jsx
 
+// src/pages/Bhutan.jsx
+
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import matter from 'gray-matter'; 
@@ -60,7 +62,7 @@ function Bhutan() {
       <h2>Bhutan</h2>
       <div className="rwanda-header">
         <p className="rwanda-intro">
-          Bhutan, January 2025. I did {' '}
+          January 2025. I went to Bhutan for {' '}
           <a 
             href="https://misti.mit.edu/your-resources/crafting-your-experience/types-programs/global-teaching-labs" 
             target="_blank" 
@@ -68,9 +70,9 @@ function Bhutan() {
             className="rwanda-link"
           >
             Global Teaching Labs
-          </a> a second time. In my month there, I taught olympiad math, went on hikes with my students, ate lots of spicy food, and saw Ed Sheeran. Here are some of my journals from then.
+          </a>, where I taught olympiad math, went on hikes with my students, ate lots of spicy food, and saw Ed Sheeran. Here are some of my journals from then.
 
-          Some may be interested in our <a 
+          You may be interested in our <a 
             href="https://drive.google.com/drive/folders/1rGYIPQextAx5BHHtW_lA8m1umyrG5w9k?usp=sharing"
             target="_blank" 
             rel="noopener noreferrer"

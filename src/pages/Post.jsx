@@ -3,6 +3,9 @@ import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import matter from 'gray-matter';
 
+// Import the new stylesheet
+import './Post.css';
+
 // Import all markdown files from all post directories
 const allPosts = import.meta.glob('../posts/**/*.md', { as: 'raw' });
 
@@ -62,15 +65,15 @@ function Post() {
   const imagePathPrefix = getImagePathPrefix();
 
   return (
-    <article className={`${postType}-post-content`}>
+    <article className="post-content">
       {postData && (postData.title || postData.description) && (
-        <header className={`${postType}-post-header`}>
-          {postData.title && <h1 className={`${postType}-post-title`}>{postData.title}</h1>}
-          {postData.description && <p className={`${postType}-post-description`}>{postData.description}</p>}
-          {postData.date && <time className={`${postType}-post-date`}>{postData.date}</time>}
+        <header className="post-header">
+          {postData.title && <h1 className="post-title">{postData.title}</h1>}
+          {postData.description && <p>{postData.description}</p>}
+          {postData.date && <time className="post-date">{postData.date}</time>}
         </header>
       )}
-      <div className={`${postType}-post-body`}>
+      <div className="post-body">
         <ReactMarkdown 
           components={{
             img: ({ src, alt }) => <img src={`${imagePathPrefix}${src}`} alt={alt} />
