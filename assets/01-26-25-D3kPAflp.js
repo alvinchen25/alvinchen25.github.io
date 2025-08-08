@@ -1,0 +1,23 @@
+const e=`# January 26, 2025
+
+This is the day of our last trip! It's another hike, and it's to Kobji Hoka Tso, which is a lake that's really high up. It's not too far away, but because of the elevation difference, the drive there takes quite some time. It also looks really dangerous. On some of the mountain roads, there isn't enough space for two cars to pass each other, so if you see a car coming down the mountain, you might need to sort of back up in order to pull over.
+
+The hike is a bit longer and it's really neat because we're really in nature. We see a bunch of cows on the path, and one of the kids tells me about how families will let their cows loose in the mountains, so that they can eat and get fat, and then after a year or two the families will come back and try to find the cows on the mountains. It seems like a tough task to find a cow, but I guess they make it work. We also see lots of dogs, and they sometimes walk ahead of us, sometimes behind us. They join our pack, briefly
+
+![alt text](../../../public/bhutan/75FCCE9A-9205-4FBA-B689-256B73B09911_1_105_c.jpeg)
+
+One kid points out plants and he says his mom used to beat him with them. We find a vine near the end of the trail and he swings on it. It doesn’t look too stable but I swing as well, and it’s really quite fun. It's an all natural swing and it's set up at the perfect height.
+
+Our destination is a large wide-open marshy area on the side of the lake. There’s another group of people, maybe a school, playing cricket. Somehow, despite walking quite slowly, we are the first group to arrive there. It turns out this is because one of the groups of boys decides to walk all the way around the lake, so they rushed far ahead. But the rest of us just stay in this area and take pictures. Both directions are beautiful, the lake and its reflection, and the mountains to the back. They say that lakes are really sacred here in bhutan, because mermaids live in it. So Karma tells me about how they believe that if you do bad things near a lake, then you’ll be punished by the mermaids. There are stories of people getting lost because of this.
+
+The lake is beautiful and there's such a clear reflection that comes off of it. You can tell the water is clean and it makes sense that people believe that there's magic that happens here.
+
+The girls offer me some ramen, which is very nice. It’s maggi, and what they do is they first break the noodles into small pieces, then open the packet, mix the seasoning packet around, and then you can eat it like a snack, dry. I remember I used to have dry ramen sometimes, and it’s actually quite good. They share some of the other snacks, chips and such.
+
+We take lots of pictures once everyone arrives. It takes a while because there’s a group at the end who is walking slow and taking a lot of rests. The kids use my phone to take pictures of each other, because I have an iPhone. My phone runs out of battery eventually. There is a dabbing picture that I take with the boys that they seem to really like, and a lot of them post it on instagram.
+
+![alt text](../../../public/bhutan/88A856F7-5CC9-4ECB-9DA9-26AD7C85398C_1_105_c.jpeg)
+
+On the way back we’re sort of speeding down the mountain, so we’re not talking too much. At one point Dorji meets us, and he’s basically running, so I go along with him to finish the trail. They have better suited legs for mountains than I do, but I try to keep up.
+
+I’m in the girls bus on the way back and they tell serena and I to get up and dance, so we do for the most part. Some of them know so many dances, and I feel a bit awkward, but it’s okay and honestly quite fun.`;export{e as default};

@@ -1,0 +1,11 @@
+const e=`# January 22, 2025
+
+I go for a run in the morning up the hill, and I feel surprisingly good.
+
+Dorji helps me do laundry (I think it was this day, I'm updating this late). I carry my clothes in a bag to TTI, and we go to his place, where we get a bucket and soak all of my clothes for a while. I had been sort of washing my clothes at my apartment, but I didn't have hangers or much skill or time, and especially for the large items it didn't make too much sense to wash them. Dorji helped Serena earlier so I ask him to help me as well. He plays Bhutanese songs as we scrub the clothes, and he decides to teach me a song. It's called Bum Jarim, which means beautiful woman. He tells me the story, and it's apparently about a man who meets a girl in school or something and then waits for her for nine years. The chorus is really catchy, and we sing it over and over until I mostly get it. I go back to the students later and try to sing it, but I forget some of the words.
+
+The anglicization of the Dzongkha lyrics is a bit difficult for me to get used to, but after hearing the rest of them sing, I can mostly mimic it. They say I have decent pronunciation!
+
+![alt text](../../../public/bhutan/84D5B460-645D-4992-969A-EADA76E74E37_1_105_c.jpeg)
+
+I also confirm the Ed Sheeran concert visit! I end up needing to coordinate with Gal to get tickets, because he's one of the only people here I can pay, and because the online system doesn't work for me. He's working for GMC, the group which is sort of responsible for bringing Ed to Bhutan, so I think he knows more about what's going on.`;export{e as default};

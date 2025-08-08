@@ -1,0 +1,30 @@
+const e=`# January 6, 2025
+
+
+It was a half day of teaching, but i’m still notably not adjusted from the jetlag and feel as tired as ever. Last night I slept 9:30-1 and then 3-7, which is okay but not great.
+
+Today the Bhutanese teachers are wrapping up with the students in the morning, so we only teach in the afternoon. Breakfast is similar to the day before—corn flakes, watermelon, porridge, eggs, but there are also fried potatoes and sausages, which are quite good as well.
+
+After breakfast I rest a bit, since we aren’t picked up until 11 am, but I can’t really fall asleep, so I do a bit of Yoga. My room faces a courtyard where people sometimes stand, and I keep the curtains open, so I’d be doing a strange yoga pose and there would be a Bhutanese man outside taking a call and looking at me a bit funny.
+
+Sangay picks us up at 11 and we get to TTI at 11:30. We meet the principal as well as some of the Bhutanese teachers, and we start talking to them about the program. These Bhutanese teachers have been trained in IMO prep by some people from abroad in the greater IMO community. Since everyone here is so new to these types of competitions, the teachers are figuring things out with the students. The students arrived at this camp on December 31st, and for the past week have been doing rigorous work with the Bhutanese teachers—I think they wanted to cram as much into the students before we got here. I look at some of the students notebooks later and they have completely sped through many advanced topics like Bezout’s identity. I wonder how well the students actually know these things.
+
+![D9E71BCC-85DF-43E6-B0FA-9238DF2F559C_1_105_c.jpeg](bhutan_D9E71BCC-85DF-43E6-B0FA-9238DF2F559C_1_105_c.jpeg)
+
+After chatting a bit with the principal we head over to the classroom. We do a quick round of introductions—each of the 40 students says their name, grade, favorite subject, and some tell us what they want to be. Some want to do data analysis, one wants to be a cardiologist, another wants to do architecture.
+
+We have about half an hour before lunch break, so we do a few quick puzzles. I play the 21 game (2 player game, count up by 1 or 2, first person who says 21 wins), but they seem to figure it out quite quickly, so I give them the chessboard problem (8 by 8 grid, remove opposite corners, can you cover with dominoes), and this stumps them. Tashi, the program director, walks us through their program, and they tell us they want us to give the students an exam every week, and they’ll take into account all these exam results as they select students for the next round.
+
+![192DEA26-63E5-4DC8-B21E-29A45E32AAE8_1_105_c.jpeg](bhutan_192DEA26-63E5-4DC8-B21E-29A45E32AAE8_1_105_c.jpeg)
+
+We head to lunch, and the lunch is quite good—rice with a fish soup, pork skin, and vegetables. They also give us fried eggs. The students say the food is close to what they eat at home. I sit down and some students join me—a few of the older boys. They are quite talkative and energetic. They ask me about basketball teams, and they know quite a bit about the various NBA teams. I tell them I like the Charlotte hornets, and they say, oh Lamelo? I’m impressed at the ball knowledge. They also ask me if I work out, and I say yes, and one boy says he wants to do calisthenics. I should also start some calisthenics while I’m here, since there’s no gym.
+
+I ask for a tour and the students show me around the TTI campus. This campus is for secondary education for technical skills, such as driving. There’s also a hair care program, and an artistic program. We see that our classroom is located above an autoshop. The students take me to their dormitory and they tell us that there’s some military personnel staying in the same building as well. They’re in 8 to 10 per room, but the rooms are rather spacious, and they have a few desks and decently large lockers. They were allowed to choose their roommates, so many students of the same school live together.
+
+The boys say they’re going to study a bit before the diagnostic test, and I’m a bit worried about them taking it too seriously, but I leave and let them study.
+
+I go down and Serena is talking to a group of the girls, and I join them for a walk along the river. One girl is especially talkative, and she tells me about her school, which is a boarding school. They live in rooms with about 20 students, and they all wake up at 4 am, for morning prayer and then study session. They have classes in the day, and then they have afternoon study session, dinner, and then a night study session. They generally don’t get to sleep until 9, which means they get about a maximum of 7 hours of sleep. I didn’t realize school in Bhutan could be this intense. She says that a lot of the teachers talk about how they can be successful and the country can be successful only through studying, so they push students really hard. It seems like all of the students at the camp have a phone, but at her school, phones are not allowed, but people still sneak them in sometimes by hiding phones in books and cutting out a section of the books. Apparently they’ve considered many punishments if your phone is found, including breaking the phone publicly (this was vetoed) and now levying a fine and confiscating it for the semester. The fine is apparently Nu 1500, so around 20 dollars, which is no small price.
+
+In the afternoon we give them the diagnostic test we made, and it was harder than we expected (even though we were extremely aware while planning that these things tend to be too hard). I knew that these students didn’t learn much math in school, especially of this type, but I was somewhat surprised that some didn’t know the area of an equilateral triangle in terms of its side length.
+
+![26A55610-5E8C-4438-A358-B73E47AB7217_1_105_c.jpeg](bhutan_26A55610-5E8C-4438-A358-B73E47AB7217_1_105_c.jpeg)`;export{e as default};

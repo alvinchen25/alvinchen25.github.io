@@ -1,0 +1,22 @@
+const e=`# January 13, 2025
+
+
+To be honest today I was quite tired so I didn’t do much. I ran the test review in the first session. This session was not very hands-on and I kind of just went through the problems. In the beginning I talk a bit about the aims of the program to give the students some context:
+
+1. to select and train the IMO team.
+2. to help train and give resources for students who may participate in the IMO in the future
+3. To build fundamental logical reasoning and problem solving skills for everyone here
+
+Notably, I think the third one is the most important but also the most difficult to evaluate, and when people outside are looking at camp, they’re mostly just concerned with the performance of the top 6.
+
+Part of why the camp is really hard at times is because it’s our responsibility to help meet all of these goals. So this means the IMO students should have as many tools as possible, and we don’t have too much time for review between topic and topic. We try to give a very wide range of difficulty in the problems, so everyone can be challenged, but even just the nature of the program means we have to go fast, there’s no choice.
+
+I tell them that when I did math, I did three years of computational problems before touching a proof, but here it’s week 2, and we’re starting proofs. And by the end of the week we’ll be testing them on it.
+
+Tony wrote up an intro to proof handout, and the students spend the rest of the day going through the handout. Tony and Serena are teaching so I have a lot of time off. I prepare two handouts, trying to be a lot more intentional about easy and doable examples.
+
+At lunch one of the students shows us videos of her dancing, and some other students tell us about clubs at their school. Clubs are mandatory, but there’s a lot of options. There’s nature club, dance club, math club, etc. At one school the math school is sort of a feeder for this camp, which is interesting. The dancing is really cool—they learn lots of types of dance, including a KPop song!
+
+After lunch I do some more preparation, but then I get bored and go for a run. My main goal for today is to try to wash some clothes, since I’ll have to wash my own clothes. The hotel has laundry service, but it costs an extraordinary amount—about 3 dollars for outerwear, and 1 dollar per undergarment. So doing all of my laundry with that service would be 50+ dollars. I’m going to try to handwash my clothes since that’s how people normally do it. The issue is I would probably have to do it in the morning since if I wash at night it’s going to freeze up and not naturally dry. There also aren’t any hangers.
+
+![A4053314-909B-4D80-B9B7-A7DE769C1544_1_105_c.jpeg](bhutan_A4053314-909B-4D80-B9B7-A7DE769C1544_1_105_c.jpeg)`;export{e as default};

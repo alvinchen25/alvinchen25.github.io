@@ -1,0 +1,22 @@
+const e=`# January 18, 2024
+
+
+Slept really badly last night and woke up to the news that theres no school visit today. At first I’m a bit annoyed that we hear about plans cancelling day of for the second day in a row, but that’s just how it is and I’m actually quite grateful for the time to rest.
+
+Tony and I go out for excellent Indian food but otherwise I stay at home and rest against this headache I have.
+
+![616E0E39-BF44-4C79-84A7-3D1EC748F5A5_1_105_c.jpeg](1%2018%20cb02e2e2663c44d18206cad2310f9b66/616E0E39-BF44-4C79-84A7-3D1EC748F5A5_1_105_c.jpeg)
+
+![97DB0422-FABC-43D2-87E2-BCE22BB009BE_1_102_o.jpeg](1%2018%20cb02e2e2663c44d18206cad2310f9b66/97DB0422-FABC-43D2-87E2-BCE22BB009BE_1_102_o.jpeg)
+
+The mangos we bought at the fruit market had ripened and it was one of the most delicious mangos I had ever had.
+
+![69362EE0-8B36-4A96-A25E-6917AA1FE061_1_105_c.jpeg](1%2018%20cb02e2e2663c44d18206cad2310f9b66/69362EE0-8B36-4A96-A25E-6917AA1FE061_1_105_c.jpeg)
+
+I also reheated one of the large bakery donuts.
+
+![918309E1-55B8-44B1-8624-C69091FA7CB5_1_105_c.jpeg](1%2018%20cb02e2e2663c44d18206cad2310f9b66/918309E1-55B8-44B1-8624-C69091FA7CB5_1_105_c.jpeg)
+
+And I had never seen Smirnoff ice like this, so I bought one!
+
+![7F423EE3-36D4-4A57-A288-7FE3DBBAFD24_1_105_c.jpeg](1%2018%20cb02e2e2663c44d18206cad2310f9b66/7F423EE3-36D4-4A57-A288-7FE3DBBAFD24_1_105_c.jpeg)`;export{e as default};

@@ -1,0 +1,24 @@
+const e=`# January 25, 2024
+
+
+Yuka and I go to the furthest school on the program. It’s 3.5 hours away so realistically it’ll be a 7-8 hour commute for a 2 hour program. We leave at 10:30 am in the AIMS van.
+
+I listen to my audiobook and sleep on both ways, but still it is a long long trip.
+
+We go to a restaurant on the way there which seems very fancy and has high prices, and I get fried rice with chicken, because there aren’t so many cheap options, but this turns out to be a mistake because both the rice and the chicken are incredibly dry and its difficult to stomach it. This might be my least favorite meal so far in Rwanda. Lesson learned—don’t get fried rice!
+
+The school itself is an all girls school. At Rwandan schools all girls must have shaved heads. This is surprising because the coaches we know, who are in university, have long hair, despite graduating high school somewhat recently. We go with Emmy, who is substituting for Jessica.
+
+Lunch runs long so we arrive late. I feel bad about this because I think this means the students are all waiting for us. It’s 3:30 and we were supposed to start at 3. The principal tells us some students have mass so we need to end by 4, at latest. This is not much time, so we’ll have to speedrun our program. And today it’s a significant portion of the whole school. Probably 300 students are sitting in that room. We walk through the middle and start setting up, but they tell us to sit down. The principal gives some remarks and introduces dancers, who perform some traditional singing and dancing. It’s beautiful and the kids all smile big smiles while they’re on the stage. This goes on for 10 minutes however, and after it Jules introduces us as well, and I think its around 3:52 before we really get started. We introduce ourselves and then run the 21 game. Then Emmy talks about the Rwanda math olympiad program. We talk about math a little bit more. By then its 4:10 and the principal clearly wants us off. So we ask for questions and nobody has questions, but when Yuka asks do you want to hear about American universities, many nod enthusiastically. So we tell them a bit about MIT, and suddenly its 4:20 and we really need to wrap up. And then we remember we need to take a picture, so I do a selfie with the crowd on stage, and by then its 4:25, and Emmy says some more stuff in Kinyarwanda that I don’t understand, and then it’s 4:30 and we really need to leave and they basically push us out.
+
+![97BA8BD7-EB4D-4D38-BF9A-20FBDE680790_1_105_c.jpeg](1%2025%207748b4fcd8ac45d8bb67e6a7a83f16a3/97BA8BD7-EB4D-4D38-BF9A-20FBDE680790_1_105_c.jpeg)
+
+Then, the principal takes me aside and asks me, what is your purpose here? And we tell him, to support the Rwanda math olympiad and math outreach, things like that. And he says "great, can you film an interview with us that we can put on Youtube and share with our students?" And of course we say yes, but apparently this interview doesnt have other questions, and he sticks his cameraman in front of us, and he just starts recording. The principal had told me specifically about this while Yuka was behind, so Yuka is just put in front of a camera knowing nothing about what's happening. I just start talking about math and what the Rwanda math olympiad program is, and at some point I say “Yuka will now talk about why math is important for her” and she’s a bit flustered but we fill up enough content for their four minute video. And then we think we're done but the pricipal says he wants another video, this time with two students, and we ask the students some questions about their experiences with math, and they ask us some questions about ours. Afterwards we can’t help but laugh. Then, we enter a room with the 45 students who have somehow been involved in AIMS, and we’re told we have around 40 minutes with them. We go through a few fun problems—chessboard, bridges of Konigsberg, etc. and the kids here are actually very fast, and seem to enjoy what we’ve brought as well. Nepo talks a bit about the Millennium problems and we wrap up and leave.
+
+![FEB0E866-73DB-426A-9614-15DE700EA1E2_4_5005_c.jpeg](1%2025%207748b4fcd8ac45d8bb67e6a7a83f16a3/FEB0E866-73DB-426A-9614-15DE700EA1E2_4_5005_c.jpeg)
+
+It’s all over very quickly and even Jules says he’s never been to a school visit like this.
+
+On our way back Method, our driver, stops and buys a large bag of avocados, as well as a big breadfruit. We get a papaya, except we don’t actually know what a papaya looks like so Emmy needs to explain yo us what it is without knowing the word for papaya. He says it’s somehow like an avocado. Rwandans like to use the word “somehow”.
+
+![70505D43-8AD1-41E0-A497-B758FABB296A_1_102_o.jpeg](1%2025%207748b4fcd8ac45d8bb67e6a7a83f16a3/70505D43-8AD1-41E0-A497-B758FABB296A_1_102_o.jpeg)`;export{e as default};

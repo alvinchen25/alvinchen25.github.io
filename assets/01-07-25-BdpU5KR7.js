@@ -1,0 +1,38 @@
+const e=`# January 7, 2025
+
+
+I unfortunately wake up at 4 am and don’t go back to sleep.
+
+We eat breakfast at 8 because we had arranged to be picked up at 8:30. We speed through breakfast, with eggs and rice and aloo paratha which is really good (it tastes extremely similar to scallion pancake, and honestly I think it might be essentially the same thing). We finish at 8:30 and promptly go wait outside, but there’s no car, and we text quite a few people in the camp organizers chat without response. Eventually at about 8:50 Sangay says he’s coming, and we get in his car at around 9. He drives fast and we’re about 15 minutes to the first session. Apparently Sangay, Dorji, Tashi (basically, all of the bhutanese organizers that we know), and maybe others went out drinking last night (Dorji is basically drinking every night). I want to ask if we can go with him in whatever he’s doing, but right now I’m still too jetlagged for late night activities, and he says that they were out until past midnight.
+
+![CB22D589-0D10-4443-8485-F0569118ADA0_1_105_c.jpeg](bhutan_CB22D589-0D10-4443-8485-F0569118ADA0_1_105_c.jpeg)
+
+Today is a full day of teaching. In the morning we introduce the program, tell them about how they have weekly tests, and how they should ask lots of questions, and how we want them to work together, etc.
+
+We go through solutions to the diagnostic test in the first session, and the three of us cover two problems each. One of the students tells me afterwards that the problems didn’t seem so hard when we covered them, but they weren’t able to solve them yesterday, and I tell them yeah, that’s math for you. They’ve learned so many formulas in such a short period of time, but right now we want to give them problems that don’t really require formulas at all—just thinking.
+
+The second session is what we call “mathematical playground”. It’s just 6 problems of assorted subjects that we want students to try out, and they also shouldn’t require any background. We realize that word problems are often quite difficult for students, oftentimes because they’re not super confident in turning English into formulas. So we start with this problem
+
+![image.png](bhutan_image.png)
+
+And the step of writing out the equations is tricky, as well as solving the system of equations.
+
+The second problem is extremely hard, and I’ll blame Zian for it, because it involves a lot of casework, and students haven’t really done much casework at all.
+
+![image.png](bhutan_image%201.png)
+
+You do have to be quite organized when listing out the triangles, because a student’s natural instinct is often to just start counting them without an organized pattern. The trick is that they need to also consider equilateral triangles that aren’t on the gridlines. In an hour and a half we just get through these two questions, but we have two students present their solutions, and they’re good presenters. It’s nice that a lot of students are friends with each other, and they have fun watching each other talk about the problems.
+
+![E0E69643-E4AA-4F69-B3EC-878959B55098_1_105_c.jpeg](bhutan_E0E69643-E4AA-4F69-B3EC-878959B55098_1_105_c.jpeg)
+
+Right after lunch I play some basketball with some students. One of the kids lives in the southern border and he talks about how he goes to India to visit his aunt, who’s actually in America. Because the aunt would have to pay the tourist fee to visit them in Bhutan, so it’s easier for both sides to meet in India. I didn’t realize family members would still have to pay the tourist fee, but I guess it may depend on the relationship. For context, all tourists in the country must pay a 100$/day sustainability fee. This is a big source of income for the country and it limits the number of tourists.
+
+In the afternoon we split the students into two groups. Smaller classrooms make it easier for us to teach. Since there are two classes, we split up into two rooms, and I have the first bye so I sit on the side and put together algebra and geometry handouts for the rest of the week. After a while I get bored and start browsing wikipedia. I remember on the plane from Bangkok looking at the city and really marveling at how big of a city it was—from a distance the skyline rivals New York’s at least, though in my mind perhaps because this area is so far from the US, I just imagine it as smaller because it takes up a smaller portion of my mind. Cities like Bangkok and Ho Chi Minh are just huge and have districts that seem quite modernized, but I read online that perhaps because of the rapid development there is also lots of inequality.
+
+I ask some of the girls what they do for fun at school and they say sometimes they can walk off campus to go to stores, but they need special permission. So for example they’ll tell the matron they need to go buy shoes, so then they can get permission to go off. Here at camp this month there really is not much around, so the students have not been off campus at all. I guess class is 9-5 and then afterwards it gets dark so there really isn’t much of an occasion for them to leave.
+
+I realized I am really bad at remembering names, especially foreign names. Serena has a really good strategy for the students, and she has some pictures that can help. Additionally, names here are often unisex, which I was initially confused about. I really need to get the name of the hotel manager since she’s helped us with so much. She knocked on my door and said we should come to her if we ever do need anything, and she did this because our driver Sangay told her that we are shy foreigners and we don’t know to ask for help, haha!
+
+Dinner is good, and there is carrot soup, noodles, pork. They decreased portions a little bit after we asked to downsize, but we still can’t finish everything, since they always bring a large plate of rice.
+
+![5E197953-28BA-4B10-BD90-019D27D064A4_1_105_c.jpeg](bhutan_5E197953-28BA-4B10-BD90-019D27D064A4_1_105_c.jpeg)`;export{e as default};

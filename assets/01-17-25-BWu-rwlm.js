@@ -1,0 +1,16 @@
+const e=`# January 17, 2025
+
+
+Friday means the day before the test. We have geometry in the morning and I’m not teaching. I told Zian and Serena that I’d rather not teach geometry for the rest of camp haha. I spend some time talking to Dorji, and then Roshan, one of the RSSTEM kids, comes in and we talk for a while. He asks me how he can be helpful, and he talks about reviewing the content that we’ve done over the past week.
+
+I tell him that yeah he can probably solve the questions with the students, and if he manages to get them before the students, then he can help out with the students.
+
+We're not sure how exactly to incorporate them at first, because in some respects they have more experience than the younger students, but also for many topics that we've covered, they are actually behind the students. Zian basically tells both of them that they should take the test tomorrow. They then ask me and I say I think it would be instructive. But then I think they talk to Zian again and Zian just says they should take it, which honestly isn’t a bad idea.
+
+During lunch I talk to some of the girls about languages and food and their families, and they talk about how in their parents generation, families would have 10+ kids, but nowadays most of them have only 2 or 3 siblings. But they know many friends who still have 6 or 7. They ask about China and the differences we feel between China and Bhutan. They know a lot about India but probably not so much about China. I tell them the dumplings are very similar.
+
+In the afternoon I teach class one bijections, but the problems are too hard—the only problem that kids can solve on their own is number 1, and I go way too quickly through the other ones. There’s also a problem where I don’t remember the solution, so I kind of lead everybody along the wrong path for a good 10 minutes. I'm reminded that teaching is really difficult and I can always be more prepared. One of the students is clearly falling asleep, and I feel really bad because it's totally my fault. I sort of need to improvise a little bit--I don’t want to simply let them work on the problems, since I know the problems are too hard. I try to come up with more approachable examples and ways to get the intuition behind simple bijections. Bijections often just feel like magic and I think it’s hard to really teach it well. I tell the students it won’t be covered on the test.
+
+The last session is test review, and before going into the math we do a bit of a test prep and tips. Zian talks for a while about his IMO experience, and through it we talk about not giving up on problems, being organized, checking your work, writing up all partial work, things like that. We are a bit worried that the test is too hard, and not sure they have the patience to sit through 3 hours without giving up. I don’t know how relevant Zian’s IMO comparison is, but I think the kids like hearing about his IMO stories.
+
+Tandin tells us how last year this year we focused a lot more on geometry and this year we’re focusing on number theory and combinatorics. It’s different teaching philosophies, but I think ours is right, since getting to an IMO level in 6 months for geometry for these students seems really hard. I am of course biased because I don't like geometry!`;export{e as default};

@@ -1,0 +1,13 @@
+const e=`# January 30, 2025
+
+We get up bright and early and go to Paro, for Paro Taktsang. We get there around nine and meet Roshan and Jigme. They taxiied here pretty much just to be our tour guides. On the hike up I am mostly talking to Jigme. He’s lowkey unprepared for the hike, having brought no water and no backpack—just himself and his vest. But he’s very fit, and knows the most about this place, having been twice before. He just knows where to go—-even though the path is generally clear, and some places there are forks and he’ll just say this goes to this temple and that goes to to that one. The views are truly stunning, and we a waterfall, mountains, and a bare rock cliff. A cool part about the hike is that for most of it, the view of your final destination is visible. Taktsang is basically built off of a cliff, so it's really incredible to see it just hanging from the side of a mountain.
+
+![alt text](../../../public/bhutan/A498BDAB-F0CE-42DD-BA14-771333BF509D_1_105_c.jpeg)
+
+Jigme and I get to the top, and he explains how he can't go inside because he's Bhutanese but he's not wearing a gho. Roshan is, however, so he takes us inside while Jigme waits. Inside, we take off our shoes, and my feet get really cold. It is winter and the rocks are numbing. There are tour guides that tell us stories of Guru Rinpoche, who is celebrated at this temple. The actual “Tiger’s nest” is a bit scary to access—inside the temple, you go down two flights of shaky ladders, and there’s a butter lamp inside, which you pray to. The lamp is said to have burned for a long, long time. There’s also a hole you can climb to that leads to a cliff, and you can see the steep dropoff just past your feet. It’s amazing to be there.
+
+![alt text](../../../public/bhutan/3B70DB44-D939-401E-A2FE-D6A8D98E88B3_1_105_c.jpeg)
+
+Afterwards, we go to our hotel, and they need someone to unlock the hotel since it seems that we are the only people to be living in the hotel. It seems like in Bhutan there are really fancy tourist hotels, and there are hotels for local Bhutanese travelers, but this one is somewhere in between.
+
+We get dinner together in Paro, and the food is okay, and we get some more souvenirs after dinner. I spend a lot of money getting a scarf, and bottle opener with a penis, a notebook, and i don’t remember to ask for a discount, so I think i’m overcharged a lot before I realize. But it’s okay, I only feel slightly bad. the night is spent with nothing but myself and my thoughts, since I run out of data. In the morning we regroup and it turns out that all of us had run out of data—even Zian, with 1.8 gbs, says it ran out rather fast with his computer usage.`;export{e as default};
