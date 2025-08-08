@@ -11,4 +11,6 @@ I’m grading now and I think we probably made a mistake in that, for experience
 
 After the test we do an Estimathon. I had put together most of the problems in it, but similarly to the trivia, I wasn't sure how much general knowledge the students had, or if they had done these types of estimations before. Overall, I was really impressed--they reasoned through the guesses well despite never seeing Fermi questions before. We walked through one example beforehand, but that was all they had.
 
-Some teams did much better than others, and it's possible there was some issues with phone usage, but I couldn't really tell. There were some students who didn't seem too interested in the activity, and since it was kind of a fun thing, I decided to not be too strict in this case.`;export{e as default};
+Some teams did much better than others, and it's possible there was some issues with phone usage, but I couldn't really tell. There were some students who didn't seem too interested in the activity, and since it was kind of a fun thing, I decided to not be too strict in this case.
+
+![alt text](56A1CE23-76FD-4757-A916-A47D57D5BDFD_1_105_c.jpeg)`;export{e as default};

@@ -13,4 +13,6 @@ In the afternoon I teach class one bijections, but the problems are too hard—t
 
 The last session is test review, and before going into the math we do a bit of a test prep and tips. Zian talks for a while about his IMO experience, and through it we talk about not giving up on problems, being organized, checking your work, writing up all partial work, things like that. We are a bit worried that the test is too hard, and not sure they have the patience to sit through 3 hours without giving up. I don’t know how relevant Zian’s IMO comparison is, but I think the kids like hearing about his IMO stories.
 
-Tandin tells us how last year this year we focused a lot more on geometry and this year we’re focusing on number theory and combinatorics. It’s different teaching philosophies, but I think ours is right, since getting to an IMO level in 6 months for geometry for these students seems really hard. I am of course biased because I don't like geometry!`;export{e as default};
+Tandin tells us how last year this year we focused a lot more on geometry and this year we’re focusing on number theory and combinatorics. It’s different teaching philosophies, but I think ours is right, since getting to an IMO level in 6 months for geometry for these students seems really hard. I am of course biased because I don't like geometry!
+
+![alt text](1F24B35B-1467-42E9-B61A-FE2D9A62009A_1_105_c.jpeg)`;export{e as default};

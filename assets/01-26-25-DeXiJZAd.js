@@ -1,6 +1,6 @@
 const e=`# January 26, 2025
 
-This is the day of our last trip! It's another hike, and it's to Kobji Hoka Tso, which is a lake that's really high up. It's not too far away, but because of the elevation difference, the drive there takes quite some time. It also looks really dangerous. On some of the mountain roads, there isn't enough space for two cars to pass each other, so if you see a car coming down the mountain, you might need to sort of back up in order to pull over.
+This is the day of our last trip with the students! It's another hike, and it's to Kobji Hoka Tso, which is a lake that's really high up. It's not too far away, but because of the elevation difference, the drive there takes quite some time. It also looks really dangerous. On some of the mountain roads, there isn't enough space for two cars to pass each other, so if you see a car coming down the mountain, you might need to sort of back up in order to pull over.
 
 The hike is a bit longer and it's really neat because we're really in nature. We see a bunch of cows on the path, and one of the kids tells me about how families will let their cows loose in the mountains, so that they can eat and get fat, and then after a year or two the families will come back and try to find the cows on the mountains. It seems like a tough task to find a cow, but I guess they make it work. We also see lots of dogs, and they sometimes walk ahead of us, sometimes behind us. They join our pack, briefly
 
