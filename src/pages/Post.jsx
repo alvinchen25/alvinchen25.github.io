@@ -21,6 +21,8 @@ function Post() {
   const [nextPost, setNextPost] = useState(null);
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+
     // Look for a file that ends with `/${postId}.md`
     const matchedKey = Object.keys(allPosts).find(path => path.endsWith(`/${postId}.md`));
     
