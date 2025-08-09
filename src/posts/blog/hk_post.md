@@ -1,6 +1,7 @@
 ---
 title: "Thoughts from Hong Kong"
 description: "July 2025"
+visible: true
 # image: "mainpic.jpg"
 ---
 

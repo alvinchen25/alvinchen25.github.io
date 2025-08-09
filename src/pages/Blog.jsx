@@ -39,11 +39,14 @@ function Blog() {
               ? `/blog/${extractFirstImage(content)}`
               : null;
 
-          return { postId, title, description, image };
+          // Return the full post data including the visibility flag
+          return { postId, title, description, image, visible: data.visible };
         });
       })
     ).then(postList => {
-      setPosts(postList);
+      // Filter posts where visible is not explicitly false
+      const visiblePosts = postList.filter(post => post.visible !== false);
+      setPosts(visiblePosts);
     }).catch(err => {
       console.error('Error loading posts:', err);
     });
@@ -54,7 +57,7 @@ function Blog() {
       <h2>Writing</h2>
       <div className="blog-header">
         <p className="blog-intro">
-          Some journals from traveling to <Link to="/rwanda">Rwanda</Link> and <Link to="/bhutan">Bhutan</Link>.
+          Some journals from traveling to <Link to="/rwanda">Rwanda</Link> in 2024 and <Link to="/bhutan">Bhutan</Link> in 2025.
         </p>
       </div>
       <ul className="blog-list">

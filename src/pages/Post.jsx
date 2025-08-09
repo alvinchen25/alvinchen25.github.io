@@ -1,7 +1,9 @@
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import matter from 'gray-matter';
+import rehypeRaw from 'rehype-raw';
+import remarkGfm from 'remark-gfm';
 
 // Import the new stylesheet
 import './Post.css';
@@ -15,6 +17,8 @@ function Post() {
   const [content, setContent] = useState('');
   const [loading, setLoading] = useState(true);
   const [postType, setPostType] = useState('');
+  const [prevPost, setPrevPost] = useState(null);
+  const [nextPost, setNextPost] = useState(null);
 
   useEffect(() => {
     // Look for a file that ends with `/${postId}.md`
@@ -27,14 +31,34 @@ function Post() {
     }
 
     // Determine post type from the path
+    let currentPostType = '';
     if (matchedKey.includes('/rwanda/')) {
-      setPostType('rwanda');
+      currentPostType = 'rwanda';
     } else if (matchedKey.includes('/bhutan/')) {
-      setPostType('bhutan');
+      currentPostType = 'bhutan';
     } else if (matchedKey.includes('/blog/')) {
-      setPostType('blog');
-    } else {
-      setPostType('general');
+      currentPostType = 'blog';
+    }
+    setPostType(currentPostType);
+
+    // Navigation logic
+    const postPaths = Object.keys(allPosts).filter(path => path.includes(`/${currentPostType}/`));
+    const sortedPosts = postPaths.sort((a, b) => {
+      const dateA = a.split('/').pop().replace('.md', '');
+      const dateB = b.split('/').pop().replace('.md', '');
+      return dateA.localeCompare(dateB);
+    });
+
+    const currentIndex = sortedPosts.findIndex(path => path.endsWith(`/${postId}.md`));
+
+    if (currentIndex > 0) {
+      const prevPath = sortedPosts[currentIndex - 1];
+      setPrevPost(prevPath.split('/').pop().replace('.md', ''));
+    }
+
+    if (currentIndex < sortedPosts.length - 1) {
+      const nextPath = sortedPosts[currentIndex + 1];
+      setNextPost(nextPath.split('/').pop().replace('.md', ''));
     }
 
     allPosts[matchedKey]().then(rawContent => {
@@ -46,7 +70,7 @@ function Post() {
   }, [postId]);
 
   if (loading) return <p>Loading...</p>;
-  if (content === null) return <p>Post not found!</p>;
+  if (!postData || content === null) return <p>Post not found!</p>;
 
   // Determine image path prefix based on post type
   const getImagePathPrefix = () => {
@@ -64,23 +88,27 @@ function Post() {
 
   const imagePathPrefix = getImagePathPrefix();
 
+  const components = {
+    img: ({ src, alt }) => <img src={`${imagePathPrefix}${src}`} alt={alt} />
+  };
+
   return (
     <article className="post-content">
-      {postData && (postData.title || postData.description) && (
-        <header className="post-header">
-          {postData.title && <h1 className="post-title">{postData.title}</h1>}
-          {postData.description && <p>{postData.description}</p>}
-          {postData.date && <time className="post-date">{postData.date}</time>}
-        </header>
+      {(postData.title || postData.description) && (
+        <div className="post-header">
+          <h1 className="post-title">{postData.title}</h1>
+          {postData.description && <p className="post-description">{postData.description}</p>}
+          {postData.date && <p className="post-date">{postData.date}</p>}
+        </div>
       )}
       <div className="post-body">
-        <ReactMarkdown 
-          components={{
-            img: ({ src, alt }) => <img src={`${imagePathPrefix}${src}`} alt={alt} />
-          }}
-        >
+        <ReactMarkdown rehypePlugins={[rehypeRaw]} remarkPlugins={[remarkGfm]} components={components}>
           {content}
         </ReactMarkdown>
+      </div>
+      <div className="post-navigation">
+        {prevPost && <Link to={`/${postType}/${prevPost}`}>&larr; Previous</Link>}
+        {nextPost && <Link to={`/${postType}/${nextPost}`}>Next &rarr;</Link>}
       </div>
     </article>
   );
