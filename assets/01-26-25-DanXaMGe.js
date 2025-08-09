@@ -1,0 +1,25 @@
+const e=`# January 26, 2025
+
+This is the day of our last trip with the students! It's another hike, and it's to Kobji Hoka Tso, which is a lake that's really high up. It's not too far away, but because of the elevation difference, the drive there takes quite some time. It also looks really dangerous.
+
+The hike is a bit longer and it's neat because you can see how the terrain and the vibe changes as we hike up and up. We see a bunch of cows on the path, and one of the boys tells me about how families will let their cows loose in the mountains, so that they can eat and get fat, and then after a year or two the families will come back and try to find the cows on the mountains. It seems like a tough task to find a cow, but I guess they make it work. We also see lots of dogs, and they sometimes walk ahead of us, sometimes behind us. They join our pack, briefly.
+
+![alt text](75FCCE9A-9205-4FBA-B689-256B73B09911_1_105_c.jpeg)
+
+One kid points out plants and he says his mom used to beat him with them. We find a vine near the end of the trail and he swings on it. It doesn’t look too stable but I swing as well, and it’s really quite fun. It's an all natural swing and it's set up at the perfect height.
+
+One thing about Bhutanese hikes is that the trails are not clear, and nobody has really been here before, so at a certain point we are slightly lost, but one kid intuits something, and we follow him. It turns out later that his senses were right, and we see groups coming from another side along a path that looks much more slippery.
+
+Our destination is a large wide-open marshy area on the side of the lake. There’s another group of people, maybe a school, playing cricket. Somehow, despite walking quite, we are the first group to arrive at camp. It turns out this is because one of the groups of boys decides to walk all the way around the lake, so they rushed far ahead. But the rest of us just stay in this area and take pictures. Both directions are beautiful. There is the lake and its reflection, and there are mountains to the back, and the kids disagree on which side is more photogenic. They say that lakes are really sacred here in Bhutan, because mermaids live in lakes. If you do bad things near a lake, you’ll be punished by the mermaids. There are stories of people getting lost because of this--mermaids are not to be messed with.
+
+You can tell the water is clean and it makes sense that people believe that there's magic that happens here.
+
+The girls offer me some ramen. It’s maggi, and what they do is they first break the noodles into small pieces, then open the packet, mix the seasoning packet around, and then you can eat it like a snack, dry. I remember I used to have dry ramen sometimes, and it’s actually quite good.
+![alt text](0D839011-8EBA-43D3-8318-A4E32ABC248E_1_105_c.jpeg)
+Once everyone arrives, we take more pictures. It takes a while because there’s a group at the end taking a lot of rests. The kids use my phone to take pictures of each other, because I have an iPhone. My phone runs out of battery eventually. There is a dabbing picture that I take with the boys that they seem to really like, and a lot of them post it on instagram (I tell them they can follow me on ig after camp, so I'm no longer their teacher).
+
+![alt text](88A856F7-5CC9-4ECB-9DA9-26AD7C85398C_1_105_c.jpeg)
+
+On the way back we’re sort of speeding down the mountain, so we’re not talking too much. At one point Dorji meets us, and he’s basically running, so I go along with him to finish the trail. They have better suited legs for mountains than I do, but I try to keep up.
+
+I’m in the girls bus on the way back and they tell serena and I to get up and dance, so we do for the most part. I feel a bit awkward, but it’s quite fun. Some of them know so many dances!`;export{e as default};
