@@ -1,0 +1,12 @@
+const e=`# January 16, 2025
+
+
+The hotel restaurant always lays out the napkins beautifully into many different shapes at our table, and today we get a heart!
+![alt text](0280A982-2390-4EBB-B81B-BB3AAA115EA6_1_105_c.jpeg)
+The days seem to be getting longer and a bit more tiring. The initial high from teaching is wearing off slightly, so even though the teaching is fun, I’m a bit more stressed. I think the main thing is that the students are so new to math that maybe many of the students don’t like math that much--they’re just relatively good at it. And since the program is so new, these things happen! So when they have to do math all day every day it’s just too much, which is valid. If I had to spend so much time in a camp for a topic I didn't totally like, I might have been pretty bored. For the students who really do like math, this type of experience is really cool, but you can't expect that to be everyone.
+
+But of course as an overconfident teacher I do believe that I should be able to make anything interesting, even if you aren't a math lover, so really a lot of this comes from us maybe not providing the right material. Today's handout was way too hard, unfortunately, and I probably should have adapted it better in class. When the problems are really hard I mostly just resort to solving them on the board, because the kids can't make much progress on their own, but I should think of other strategies.
+
+Zian, Serena, and I spend a lot of time in the evening putting together the next test. It’s really hard to find easy proof problems, but we somehow settle on a few nice problems in the end. I hope the students have the patience to really work through them.
+
+![F658E72F-D749-4BFC-BA35-3A5ED9D031DC_1_105_c.jpeg](bhutan_F658E72F-D749-4BFC-BA35-3A5ED9D031DC_1_105_c.jpeg)`;export{e as default};

@@ -1,0 +1,26 @@
+const e=`# January 10, 2025
+
+
+Fortunately I got a lot more sleep than usual, but unfortunately I woke up feeling slightly sick. A bunch of the students have gotten sick—-we've heard lots of coughing over the past few days. One girl had a fever and had to be taken out of class. Since they live in a big room, it makes sense that any sickness would spread really quickly. I hope they’re okay, and I also hope I’m okay. When I do get sick it’s usually for a long time, so I hope I can hold out.
+
+I teach divisibility techniques in the morning. The session is relatively uneventful, but the cool thing about this topic is the first problem in the first IMO used divisibility, and we got to a point where the students were able to understand the problem and its solution, which I think was a nice confidence booster.
+
+One student asks me to play chess during lunch, and we play about three games on her phone. It’s funny that a lot of them have been playing chess. Many of the girls are extremely shy so I’m happy that she asks me to play.
+
+Some students are singing Bhutanese songs with Dorji after lunch, and it’s quite cute and they all have great voices.
+
+I’m not teaching the afternoon session so I go for a walk. It’s nice but sometimes a truck comes by and you can see the black smoke coming out the back, and it feels like I’m breathing in straight carcinogens. But I still want to go on walks. I check my phone on the way back and it seems like Dorji has called me and texted too. I rush back and it turns out some important secretary is passing through and he wants to meet us and the students.
+
+![465B9DA9-23B6-4B4A-9A65-E4DEB504440B_1_105_c.jpeg](bhutan_465B9DA9-23B6-4B4A-9A65-E4DEB504440B_1_105_c.jpeg)
+
+The students were wearing casual clothes, so they are told to go back to their rooms and change into formal clothes. Then during tea break the guy shows up, with his wife and daughter. This man is apparently Secretary of the Ministry of Education and Skills Development. This is a pretty high up national position in government, and he certainly seems important—him and his wife both speak extremely good english. He makes a comment to the students about ‘let’s see who here makes the IMO team’, and it sort of rubs me the wrong way, since I don’t want to encourage the students to be too much more competitive.
+
+When the secretary leaves I go to Dorji’s room to get a key for one of the classrooms, and I’m honestly a bit surprised at how different their accommodations are compared to ours, even though I knew we were being spoiled. Dorji, Tashi, and Sangay live in an apartment, and Tashi and Sangay are in one room and Dorji is in the other. They don’t have cups so they drink out of cut-out plastic water bottles. At the restaurant on campus there are many cups that I’m sure they can borrow, so I think they just don't really care enough to ask. All of them sleep on mattresses on the floor. Dorji tells me it's fun and they talk a lot together. There’s two soda bottles on the counter as I go in, and it turns out both of them are filled with alcohol. Dorji says I should try some, so I do, and it’s incredibly concentrated, probably at least 40% alcohol. It’s a local liquor, made of rice, and it’s not bad, but I could not drink much of it at all. Dorji says the three of them can finish two Sprite bottles worth in a night, and that’s an easy night. We talk a bit about beer and he says he had around 18 beers in a night once.
+
+Afterwards we have a bit of an office hours session where the students from the two classes talk to each other. We tell them about the test tomorrow—there will be a review session in the morning, and then they’ll take the test in the afternoon. It turns out to be a good idea since students from different classes get to talk to their friends about the math.
+
+We need to write the test for tomorrow. It’s the first test, and we talk a little bit about our grading scheme and selection criteria. It’s a bit difficult to decide if we want to evaluate students holistically or directly based on scores. We would want to do this before the first test, so it was important to figure that out early on. Since the students are so new, the scores might not be that good of a reflection of IMO success, especially if a more motivated student does slightly worse on tests. Holistic evaluation also allows for more diversity. But it seems like the current systems are very much just scoring based, and if we did want to do holistic evaluations we would have to really talk to the program organizers. It's one of those things where things like age and gender and general enthusiasm should be in the picture, but it's hard to figure out to what extent.
+
+At dinner I convince Serena and Zian to commit to Ed Sheeran. I’m locked in to making it happen.
+
+![7D29FEE2-2D98-4F26-B897-ED50C173F239_1_105_c.jpeg](bhutan_7D29FEE2-2D98-4F26-B897-ED50C173F239_1_105_c.jpeg)`;export{e as default};
