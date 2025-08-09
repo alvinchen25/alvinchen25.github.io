@@ -1,10 +1,4 @@
-const e=`---
-description:
-# image: "1%208%2004a2ddbceddd40ccb256bb84a23ae4dd/85AC5D8E-BB19-4BE7-866F-7BE664969229_1_105_c.jpeg"
----
-# 1/8
-
-Created: January 9, 2024 1:16 PM
+const e=`# January 8, 2024
 
 Just arrived today! It was a pretty insane flight schedule. Leave 8 am EST for a 10 am flight to NYC, get to NYC at noon, wait in the airport until 6:30, fly to Brussels then, (7 hour flight), get to Brussels at around 8:30 in the morning, wait for around 2-3 hours, get on an 8 hour plane to Kigali, Rwanda. The last flight is delayed because of snow in Brussels (halfway through my first movie on that plane I realized the plane had not left).
 
