@@ -1,7 +1,7 @@
 const e=`---
 title: "Thoughts from Hong Kong"
 description: "July 2025"
-visible: true
+visible: false
 # image: "mainpic.jpg"
 ---
 
